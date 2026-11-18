@@ -13,5 +13,5 @@ Decadent is the dial-in companion for Decent espresso machines. It plans each ne
 
 ## Projects
 
-- [**plugin**](https://github.com/decadentcoffee/plugin): the Decadent plugin for Decaid. Install it from Decaid's Plugins page.
+- [**decadent-plugin**](https://github.com/decadentcoffee/decadent-plugin): the Decadent plugin for Decaid. Install it from Decaid's Plugins page.
 - [**clean-decent-tablet**](https://github.com/decadentcoffee/clean-decent-tablet): Tablet setup. Turn the Samsung tablet that ships with a Decent DE1 into a quieter, dedicated espresso controller. Every change can be undone.
